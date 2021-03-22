@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "google-tts-api": "^2.0.2",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.8",
+    "request": "^2.88.2",
+    "ytdl-core": "^4.5.0"
+  }
+}
